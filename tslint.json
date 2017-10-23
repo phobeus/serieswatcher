@@ -1,0 +1,89 @@
+{
+  "rules": {
+    "quotemark": [
+      true,
+      "single"
+    ],
+    "triple-equals": [
+      true
+    ],
+    "prefer-for-of": true,
+    "curly": true,
+    "no-arg": true,
+    "no-bitwise": true,
+    "no-conditional-assignment": true,
+    "no-construct": true,
+    "no-debugger": true,
+    "no-empty": true,
+    "no-eval": true,
+    "no-string-throw": true,
+    "no-var-keyword": true,
+    "radix": true,
+    "typeof-compare": true,
+    "use-isnan": true,
+    "eofline": false,
+    "indent": [
+      true,
+      "spaces"
+    ],
+    "no-default-export": true,
+    "no-trailing-whitespace": true,
+    "prefer-const": true,
+    "trailing-comma": [
+      true,
+      {
+        "multiline": "never",
+        "singleline": "never"
+      }
+    ],
+    "align": [
+      true,
+      "parameters",
+      "statements"
+    ],
+    "array-type": [
+      true,
+      "array"
+    ],
+    "arrow-parens": true,
+    "callable-types": true,
+    "class-name": true,
+    "comment-format": [
+      true,
+      "check-space",
+      "check-uppercase"
+    ],
+    "import-spacing": true,
+    "interface-name": [
+      true,
+      "always-prefix"
+    ],
+    "jsdoc-format": true,
+    "new-parens": true,
+    "no-angle-bracket-type-assertion": true,
+    "no-consecutive-blank-lines": true,
+    "object-literal-key-quotes": [
+      true,
+      "as-needed"
+    ],
+    "object-literal-shorthand": false,
+    "semicolon": [
+      true,
+      "always"
+    ],
+    "space-before-function-parent": false,
+    "variable-name": [
+      true,
+      "ban-keywords",
+      "check-format",
+      "allow-leading-underscore"
+    ],
+    "whitespace": [
+      true,
+      "check-branch",
+      "check-operator",
+      "check-typecast"
+    ],
+    "no-unsafe-finally": true
+  }
+}
