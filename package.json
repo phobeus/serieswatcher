@@ -1,0 +1,27 @@
+{
+  "name": "serieswatcher",
+  "version": "1.0.0",
+  "description": "Tracks series to watch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phobeus/serieswatcher.git"
+  },
+  "keywords": [
+    "sonarr",
+    "series"
+  ],
+  "author": "Pascal Stählin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/phobeus/serieswatcher/issues"
+  },
+  "homepage": "https://github.com/phobeus/serieswatcher#readme",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
